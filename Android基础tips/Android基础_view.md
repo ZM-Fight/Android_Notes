@@ -1,10 +1,9 @@
 
-* 
-``` java
-android:layout_width="0dp"
-android:layout_weight="1"
-```
-*android:layout_weight 只在LinearLayout中起作用。*
+* ``` java
+  android:layout_width="0dp"
+  android:layout_weight="1"
+  ```
+  *android:layout_weight 只在LinearLayout中起作用。*
 
 * ImageView的background设置图片背景,src设置显示的图片内容。
 
