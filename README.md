@@ -11,7 +11,7 @@
 
 - [Unable to resolve target 'android-17'](https://github.com/ZM-Fight/Android_Notes/blob/master/Android%E6%8A%A5%E9%94%99%E9%9B%86%E9%94%A6/Unable%20to%20resolve%20target%20'android-17.md)
 - [No package identifier when getting value for resource number 0x00000003](https://github.com/ZM-Fight/Android_Notes/blob/master/Android%E6%8A%A5%E9%94%99%E9%9B%86%E9%94%A6/No%20package%20identifier%20when%20getting%20value%20for%20resource%20number%200x00000003.md)
-
+- [调用JSONArray.remove ()报错](https://github.com/ZM-Fight/Android_Notes/blob/master/Android%E6%8A%A5%E9%94%99%E9%9B%86%E9%94%A6/%E8%B0%83%E7%94%A8JSONArray.remove%20()%E6%8A%A5%E9%94%99.md)
 
 >Android高效开发：
 
